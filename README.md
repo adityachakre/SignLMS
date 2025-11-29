@@ -8,7 +8,7 @@
 ## 📁 Repository Contents
 
 - `README.md` – Project overview, architecture, features, and tech stack.
-- `demo/SignLMS-demo.mp4` (or link) – Screen recording of the live system showing:
+- `demo/SignLMS-demo.mp4` – Screen recording of the live system showing:
   - Teacher portal (dashboard, assignments, quizzes, classes, students)
   - Student portal (dashboard, assignments, quizzes)
   - Key user journeys (login, assignment creation, quiz creation, submission flows)
